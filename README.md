@@ -4,7 +4,7 @@ dblockchain is an umbrella project of references to blockchain and cryptocurrenc
 
 ## Projects
 
-TODO: come up with some projects
+- A multi-currency paper wallet generator written in D https://github.com/IoTone/paperwallet-d
 
 ## Get Involved
 
@@ -13,3 +13,4 @@ TODO: Write up some steps
 ## TODO
 
 - Add some links and references
+- Stake out some projects that will be good starting points
