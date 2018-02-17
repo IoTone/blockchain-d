@@ -6,6 +6,14 @@ blockchain-d is an umbrella project of references to blockchain and cryptocurren
 
 - A multi-currency paper wallet generator written in D https://github.com/IoTone/paperwallet-d
 
+## Trading Platform Integration
+
+- Crypto currency trading platform integration based on vibe.d for bitstamp https://github.com/trade-d/bitstamp-d
+
+- crypto currency trading platform integration based on vibe.d for kraken https://github.com/trade-d/kraken-d
+
+-  crypto currency trading platform integration based on vibe.d for bitfinex https://github.com/trade-d/bitfinex-d
+
 ## Get Involved
 
 TODO: Write up some steps
